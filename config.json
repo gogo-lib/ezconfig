@@ -1,0 +1,17 @@
+{
+	"POSTGRES_LOG_DB": {
+		"ADDR": "127.0.0.1:5432",
+		"DB_NET": "tcp",
+		"DB_NAME": "logs",
+		"DB_USER": "postgres",
+		"DB_PASSWORD": "admin123"
+	},
+	"DISCORD_APP": {
+		"KEY": "discord_key",
+		"SECRET": "discord_secret"
+	},
+	"FACEBOOK_APP": {
+		"KEY": "facebook_key",
+		"SECRET": "facebook_secret"
+	}
+}
